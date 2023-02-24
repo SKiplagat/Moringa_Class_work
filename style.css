@@ -1,12 +1,12 @@
 header {
-    background-color: #333;
+    background-color: #e28585;
     color: white;
     padding: 1em;
   }
   
   h1, h2, h3 {
     font-family: Arial, sans-serif;
-    color: #333;
+    color: #2e2b2b;
   }
   
   ul {
@@ -29,4 +29,10 @@ header {
     padding: 2em;
     font-size: 16px;
   }
+  
+  .profile-picture {
+    float: left;
+    margin-right: 1em;
+  }
+  
   
