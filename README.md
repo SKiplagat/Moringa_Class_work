@@ -1,4 +1,4 @@
-# {Simeon Kiplagat Bio}
+# Simeon Kiplagat Portfolio
 #### Biodata site for Simeon build on HTML and styles with CSS, 24/02/2023
 #### By **Simeon Kiplagat**
 ## Description
@@ -8,7 +8,7 @@ This HTML page is designed to provide a simple way to display personal biodata o
 ## Known Bugs
 * There are no known bugs in this HTML page. However, if you encounter any issues or problems while using this page, please feel free to contact the creator (see below).
 ## Technologies Used
-{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}
+
 ## Support and contact details
 If you need help using this HTML page, or if you have any questions or concerns, please contact the creator at [simeon.kiplagat@student.moringaschool.com]. The creator is happy to provide assistance and support to users of this page
 ### License
@@ -16,5 +16,5 @@ This HTML page is available under the MIT License. You are free to use, modify, 
 
 Copyright (c) {2023} **Simeon Kiplagat**
   
-# Moringa_Class_work
-# Moringa_Class_work
+
+
