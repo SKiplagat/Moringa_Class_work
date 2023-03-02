@@ -1,5 +1,5 @@
 # Simeon Kiplagat Portfolio
-#### Biodata site for Simeon build on HTML and styles with CSS, 24/02/2023
+#### Portfolio site for Simeon build on HTML and styles with CSS, 24/02/2023
 #### By **Simeon Kiplagat**
 ## Description
 This HTML page is designed to provide a simple way to display personal biodata on a webpage. The page contains basic information that can be easily customized to include your own personal information
@@ -8,7 +8,7 @@ This HTML page is designed to provide a simple way to display personal biodata o
 ## Known Bugs
 * There are no known bugs in this HTML page. However, if you encounter any issues or problems while using this page, please feel free to contact the creator (see below).
 ## Technologies Used
-
+* HTML and styles with CSS
 ## Support and contact details
 If you need help using this HTML page, or if you have any questions or concerns, please contact the creator at [simeon.kiplagat@student.moringaschool.com]. The creator is happy to provide assistance and support to users of this page
 ### License
