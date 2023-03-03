@@ -5,6 +5,10 @@
 This HTML page is designed to provide a simple way to display personal biodata on a webpage. The page contains basic information that can be easily customized to include your own personal information
 ## Setup/Installation Requirements
 * To use this HTML page, simply download the files and open the index.html file in a web browser. You do not need any additional software or tools to use this page
+## View live site
+* Click the link below to acces the live site
+https://skiplagat.github.io/Moringa_Class_work/
+
 ## Known Bugs
 * There are no known bugs in this HTML page. However, if you encounter any issues or problems while using this page, please feel free to contact the creator (see below).
 ## Technologies Used
